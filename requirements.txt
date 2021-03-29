@@ -1,1 +1,1 @@
-django==2.2wwww
+django==2.2
